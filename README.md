@@ -28,6 +28,7 @@
 
   - Please click [here](https://pwa-text-editor-jake-9f6bf8284bfd.herokuapp.com/) for the deployed application.
 
+  ![pwa ss](https://github.com/jjsdunc88/pwa-text-editor/assets/125617546/0e7d20d7-00d1-41c0-b8b6-f8e27348bfb6)
 
 
   ## License
